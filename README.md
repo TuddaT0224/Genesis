@@ -1,5 +1,7 @@
 # Module 1 HTML CSS Git: Code Refactor
 
+https://tuddat0224.github.io/Genesis/
+
 Refactor the webpage for Horiseon Social Solution Services, Inc. by making it accessible to all users
 Add all semantic elements to make the webpage easier to search and manage through.
 Make sure all of the links are working properly
